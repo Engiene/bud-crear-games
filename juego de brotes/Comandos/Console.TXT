@@ -1,0 +1,7 @@
+Bud completo creador de videojuegos para la comunidad 
+Desde Android 
+
+Con el lenguaje de programación js c++
+
+Muy fácil 
+Con la licencia mit 
